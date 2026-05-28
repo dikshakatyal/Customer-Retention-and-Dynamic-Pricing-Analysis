@@ -138,14 +138,10 @@ The dataset contains hotel booking information such as:
 ## Dashboard Preview
 
 ### Power BI Dashboard
-
-![Power BI Dashboard](images/power_bi dashboard.png)
+![Power BI Dashboard](images/power_bi_dashboard.png)
 
 ### Streamlit Dashboard
-
-![Streamlit Dashboard](images/streamlit dashboard.png)
-
-
+![Streamlit Dashboard](images/streamlit_dashboard.png)
 
 ---
 
