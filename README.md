@@ -144,6 +144,9 @@ The dataset contains hotel booking information such as:
 ![Streamlit Dashboard](images/streamlit_dashboard.png)
 
 ---
+## Live Demo
+
+🔗 Streamlit App: https://customer-retention-and-dynamic-pricing-analysis.streamlit.app/
 
 # Author
 
