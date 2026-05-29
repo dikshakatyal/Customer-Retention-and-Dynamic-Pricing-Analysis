@@ -1,4 +1,4 @@
-# Hotel Booking Analysis Dashboard
+# Customer Retention and Dynamic Pricing Analysis
 
 ## Project Overview
 
