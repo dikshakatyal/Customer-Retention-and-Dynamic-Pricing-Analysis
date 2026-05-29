@@ -2,7 +2,7 @@
 
 A comprehensive data analytics project that explores hotel booking behavior, cancellation patterns, and revenue trends — built with Python, Power BI, and Streamlit.
 
-🔗 **Live Demo:** (https://customer-retention-and-dynamic-pricing-analysis.streamlit.app/)
+🔗 **Live Demo:** https://customer-retention-and-dynamic-pricing-analysis.streamlit.app
 
 ---
 
