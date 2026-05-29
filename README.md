@@ -1,154 +1,128 @@
-# Customer Retention and Dynamic Pricing Analysis
+# 🏨 Customer Retention and Dynamic Pricing Analysis
 
-## Project Overview
+A comprehensive data analytics project that explores hotel booking behavior, cancellation patterns, and revenue trends — built with Python, Power BI, and Streamlit.
 
-This project focuses on analyzing hotel booking data to uncover customer behavior, booking trends, cancellation patterns, and revenue insights. The dashboard helps businesses understand booking performance and improve decision-making using data analytics and visualization techniques.
-
-The project was developed using Python, Power BI, and Streamlit for interactive analytics and visualization.
+🔗 **Live Demo:** (https://customer-retention-and-dynamic-pricing-analysis.streamlit.app/)
 
 ---
 
-# Objectives
+## 📌 Project Overview
 
-- Analyze hotel booking trends
-- Study cancellation patterns
-- Identify customer preferences
-- Monitor revenue performance
-- Visualize booking insights using dashboards
-- Build interactive analytics reports
+This project analyzes hotel booking data to surface actionable insights around customer behavior, booking trends, and revenue performance. Interactive dashboards built in Power BI and Streamlit allow businesses to explore the data dynamically and make better-informed decisions.
 
 ---
 
-# Tools & Technologies Used
+## 🎯 Objectives
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Power BI
-- Streamlit
-- Jupyter Notebook
+- Analyze hotel booking trends across time and customer segments
+- Identify key drivers behind booking cancellations
+- Understand customer preferences by market segment, meal type, and room type
+- Track revenue and Average Daily Rate (ADR) performance
+- Deliver insights through interactive dashboards
 
 ---
 
-# Dataset Features
+## 🛠️ Tools & Technologies
 
-The dataset contains hotel booking information such as:
-
-- Hotel Type
-- Booking Date
-- Customer Country
-- Lead Time
-- Number of Adults
-- Number of Children
-- Meal Type
-- Room Type
-- Reservation Status
-- Booking Cancellation
-- ADR (Average Daily Rate)
-- Market Segment
+| Category         | Tools                              |
+|------------------|-------------------------------------|
+| Language         | Python                             |
+| Data Processing  | Pandas, NumPy                      |
+| Visualization    | Matplotlib, Seaborn, Power BI      |
+| Web App          | Streamlit                          |
+| Notebook         | Jupyter Notebook                   |
 
 ---
 
-# Key Analysis Performed
+## 📂 Dataset Features
 
-## Booking Analysis
-- Total bookings analysis
-- Monthly booking trends
-- Customer distribution by country
-- Hotel type comparison
+The dataset contains detailed hotel booking records including:
 
-## Cancellation Analysis
-- Cancellation rate analysis
-- Lead time impact on cancellations
-- Booking status insights
-
-## Revenue Analysis
-- ADR analysis
-- Revenue trends
-- Customer spending patterns
+- **Hotel Type** – City Hotel vs. Resort Hotel
+- **Booking & Lead Time** – Date of booking and days before arrival
+- **Customer Demographics** – Country of origin, number of adults/children
+- **Stay Details** – Meal type, room type, special requests
+- **Reservation Status** – Confirmed, cancelled, or no-show
+- **Revenue Metrics** – ADR (Average Daily Rate)
+- **Market Segment** – Channel through which the booking was made
 
 ---
 
-# Dashboard Features
+## 🔍 Key Analysis Performed
 
-## Power BI Dashboard Includes:
-- Total Bookings KPI
-- Cancellation Rate
-- Revenue Analysis
-- Country-wise Booking Distribution
-- Monthly Booking Trends
-- ADR Analysis
-- Hotel Type Comparison
-- Interactive Filters & Slicers
+### 📅 Booking Analysis
+- Total bookings and monthly trend tracking
+- Country-wise customer distribution
+- City Hotel vs. Resort Hotel comparison
 
----
+### ❌ Cancellation Analysis
+- Overall cancellation rate and contributing factors
+- Impact of lead time on cancellation likelihood
+- Booking status breakdown
 
-# Streamlit Dashboard Features
-
-- Interactive booking analysis
-- Dynamic filtering options
-- Real-time chart visualization
-- KPI metrics
-- Booking trend analysis
+### 💰 Revenue Analysis
+- ADR trends across time and hotel types
+- Revenue performance by market segment
+- Customer spending pattern analysis
 
 ---
 
-# Project Workflow
-
-1. Data Collection
-2. Data Cleaning
-3. Exploratory Data Analysis
-4. Booking Trend Analysis
-5. Cancellation Analysis
-6. Dashboard Development
-7. Business Insights Generation
-
----
-
-# Key Insights
-
-- Identified peak booking seasons
-- Analyzed major cancellation factors
-- Compared city and resort hotel performance
-- Observed customer booking behavior patterns
-- Evaluated ADR and revenue trends
-
----
-
-# Business Impact
-
-- Helps hotels optimize booking strategies
-- Supports revenue management decisions
-- Improves customer experience analysis
-- Enhances business reporting with interactive dashboards
-
----
-
-# Future Improvements
-
-- Machine Learning-based booking prediction
-- Customer recommendation system
-- Real-time hotel analytics dashboard
-- Deployment using cloud services
-
----
-
-## Dashboard Preview
+## 📊 Dashboard Features
 
 ### Power BI Dashboard
-![Power BI Dashboard](images/power_bi_dashboard.png)
+- KPIs: Total Bookings, Cancellation Rate, Revenue
+- Country-wise booking distribution map
+- Monthly booking and ADR trend charts
+- Hotel type comparison visuals
+- Interactive filters and slicers
 
 ### Streamlit Dashboard
+- Dynamic filtering by date, hotel type, and market segment
+- Real-time chart updates
+- KPI metric cards
+- Booking trend visualizations
+
+---
+
+## 📸 Dashboard Preview
+
+### Power BI
+![Power BI Dashboard](images/power_bi_dashboard.png)
+
+### Streamlit
 ![Streamlit Dashboard](images/streamlit_dashboard.png)
 
 ---
-## Live Demo
 
-🔗 Streamlit App: https://customer-retention-and-dynamic-pricing-analysis.streamlit.app/
+## 💡 Key Insights
 
-# Author
+- Identified **peak booking seasons** and high-demand periods
+- Pinpointed **major cancellation drivers**, including high lead time and specific market segments
+- Found notable performance differences between **City and Resort Hotels**
+- Observed distinct **customer booking behavior** patterns by country and segment
+- Evaluated **ADR fluctuations** tied to seasonality and hotel type
 
-## Diksha Katyal
-Data Analytics & Visualization Project
+---
+
+## 📈 Business Impact
+
+- Helps hotels **optimize pricing strategies** based on demand patterns
+- Supports **revenue management** with data-driven ADR recommendations
+- Improves **customer experience** by identifying preference trends
+- Enables **proactive cancellation management** through early pattern detection
+
+---
+
+## 🚀 Future Improvements
+
+- [ ] Machine learning model for booking cancellation prediction
+- [ ] Customer segmentation and recommendation system
+- [ ] Real-time analytics with live data integration
+- [ ] Cloud deployment (AWS / GCP / Azure)
+
+---
+
+## 👩‍💻 Author
+
+**Diksha Katyal**
+
